@@ -18,14 +18,14 @@ Building CLI Apps with Python
   
 
 # Demo en firebase
-    1) Create realtime database in Firebase
-      ![database.py](docs/img/demo_firebase.png)
+  1) Create realtime database in Firebase
+    ![database.py](docs/img/demo_firebase.png)
 
-    2) Documentation:  https://firebase.google.com/docs/reference/rest/database
-    
-    3) Test conection in command Line:
-      $ curl 'https://cli-app-python-01-default-rtdb.europe-west1.firebasedatabase.app/contacts.json'
-      out: {"Peter":{"Mobile":8487344}}
+  2) Documentation:  https://firebase.google.com/docs/reference/rest/database
+
+  3) Test conection in command Line:
+    $ curl 'https://cli-app-python-01-default-rtdb.europe-west1.firebasedatabase.app/contacts.json'
+    out: {"Peter":{"Mobile":8487344}}
 
 
 # Referencias
