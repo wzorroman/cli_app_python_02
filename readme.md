@@ -1,6 +1,6 @@
 
-# cli_app_python_01
-Building CLI Apps with Python
+# cli_app_python_02
+Building CLI Apps with Python and Firebase
 
 # Comandos:
   - $ virtualenv venv
